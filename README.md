@@ -2,6 +2,7 @@
 
 
 How to remotely update an application's configuration using Pusher Channels.
+https://pusher.com/tutorials/remotely-update-configuration
 
 
 #### Getting started
